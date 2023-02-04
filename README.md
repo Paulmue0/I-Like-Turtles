@@ -28,7 +28,7 @@ To use *I Like Turtles*, simply run the main.py file in your terminal. The appli
 
 ## Roadmap
 
-- Provide an exercise sheets markdown file
+- Provide more exercise sheets
 
 ## Benefits
 

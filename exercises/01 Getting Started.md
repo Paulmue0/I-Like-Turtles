@@ -17,7 +17,7 @@
 
 ### Desired output
 
-![Square](images/01_Getting_Started/square.png)
+![Square](../images/01_Getting_Started/square.png)
 
 
 
@@ -35,7 +35,7 @@
 
 ### Desired output
 
-![Triangle](images/01_Getting_Started/triangle.png)
+![Triangle](../images/01_Getting_Started/triangle.png)
 
 ## 03: Draw a circle
 
@@ -51,7 +51,7 @@
 
 ### Desired output
 
-![Circle](images/01_Getting_Started/circle.png)
+![Circle](../images/01_Getting_Started/circle.png)
 
 
 ## 04: Draw a star
@@ -64,7 +64,7 @@
 
 ### Desired output
 
-![Star](images/01_Getting_Started/star.png)
+![Star](../images/01_Getting_Started/star.png)
 
 
 

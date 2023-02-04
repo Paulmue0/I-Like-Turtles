@@ -14,4 +14,5 @@ def draw_rectangle(turtle):
         turtle.right (90)    
 
 # Add functions that should be accessible in the GUI App
-app = TurtleApp([exercise1, draw_circle, draw_rectangle])
+exercise_list = [exercise1, draw_circle, draw_rectangle]
+app = TurtleApp(exercise_list)

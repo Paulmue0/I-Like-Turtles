@@ -92,7 +92,7 @@ class TurtleApp:
         x0 = self.canvas.winfo_rootx() + self.canvas.winfo_x()
         y0 = self.canvas.winfo_rooty() + self.canvas.winfo_y()
         x1 = x0 + self.canvas.winfo_width()
-        y1 = y0 + self.canvas.winfo_height()
+        y1 = y0 + self.canvas.winfo_height() - self.canvas.winfo_y()
 
         name = self.exercises[self.current_exercise].__name__
         postfix = str(datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S"))
